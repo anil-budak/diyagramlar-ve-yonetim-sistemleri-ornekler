@@ -1,0 +1,1 @@
+# diyagramlar-ve-yonetim-sistemleri-ornekler
